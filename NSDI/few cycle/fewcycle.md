@@ -1,1 +1,10 @@
 
+1. - [x] B Bergues, et al. "**Attosecond tracing of correlated electron-emission in non-sequential double ionization**." Nature Communications 3,813(2012)[[pdf]](https://www.nature.com/articles/ncomms1807)
+1. - [ ] B Bergues, et al. "**Single-Cycle Non-Sequential Double Ionization**." IEEE Journal of Selected Topics in Quantum Electronics ( Volume: 21 , Issue: 5 , Sept.-Oct. 2015  [[pdf]](https://ieeexplore.ieee.org/document/7122219)
+1. - [ ] M Kübel, et al. "**Non-sequential double ionization of Ar: from the single- to the many-cycle regime**." New Journal of Physics, Volume 16, March (2014)[[pdf]](http://iopscience.iop.org/article/10.1088/1367-2630/16/3/033008/meta)
+1. - [ ] M Kübel, et al. "**Complete characterization of single-cycle double ionization of argon from the nonsequential to the sequential ionization regime**." PhysRevA.93.053422(2016)[[pdf]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.053422)
+1. - [ ] Cheng Huang, et al. "**Contribution of recollision ionization to the cross-shaped structure in nonsequential double ionization**." Optics Express Vol. 21, Issue 9, pp. 11382-11390 (2013) [[pdf]](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-9-11382)
+1. - [ ] T. Shaaran, et al. "**Laser-induced nonsequential double ionization at and above the recollision-excitation-tunneling threshold**."Phys. Rev. A 81, 063413(2010) [[pdf]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.063413)
+1. - [ ] A. S. Maxwell, et al. "**Controlling Below-Threshold Nonsequential Double Ionization via Quantum Interference**."PhysRevLett.116.143001(2016) [[pdf]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.143001)
+1. - [ ] A. Chen, et al. "**Non-sequential double ionization with near-single cycle laser pulses**."Scientific Reports 7,7488 (2017)(2016) [[pdf]](https://www.nature.com/articles/s41598-017-07635-5)
+1. - [ ] Y Chen, et al. "**The contribution of the delayed ionization in strong-field nonsequential double ionization**." J. Chem. Phys. 144, 024304 (2016)[[pdf]](https://aip.scitation.org/doi/10.1063/1.4939642)

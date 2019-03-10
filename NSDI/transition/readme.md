@@ -1,0 +1,2 @@
+1. - [x] Difa Ye, et al. "**Strong-field double ionization at the transition to below the recollision threshold**." physical review A 81, 043402 (2010)[[pdf]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.043402)
+1. - [ ] Yunquan Liu, et al. "**Strong-Field Double Ionization of Ar below the Recollision Threshold**." Phys. Rev. Lett. 101, 053001(2008) [[pdf]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.053001)
